@@ -1,4 +1,6 @@
-Website made with Laravel && Bootstrap v5.0 and responsive
+Website made with Laravel && Bootstrap v5.0
+
+Contributors: [fjvc5](https://github.com/fjvc5) & [jorge7117 ](https://github.com/jorge7117) & [frc18](https://github.com/frc18)
 
 ## About Laravel
 
